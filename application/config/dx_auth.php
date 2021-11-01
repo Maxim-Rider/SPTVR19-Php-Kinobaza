@@ -16,7 +16,7 @@
 */
 //$config['DX_website_name'] = 'kinombaza.com:8080';
 $config['DX_website_name'] = 'http://localhost/kinobaza/';
-$config['DX_webmaster_email'] = 'maksitrall5@gmail.com';
+$config['DX_webmaster_email'] = 'myMail@google.com';
 
 /*
 |--------------------------------------------------------------------------

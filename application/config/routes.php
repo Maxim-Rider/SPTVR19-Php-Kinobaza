@@ -57,7 +57,7 @@ $route['news'] = 'news';
 $route['news/create'] = 'news/create';
 $route['news/edit'] = 'news/edit';
 $route['news/delete'] = 'news/delete';
-$route['news(:any)'] = 'news/view/$1';
+$route['news/(:any)'] = 'news/view/$1';
 
 $route['posts'] = 'posts';
 $route['posts/create'] = 'posts/create';
