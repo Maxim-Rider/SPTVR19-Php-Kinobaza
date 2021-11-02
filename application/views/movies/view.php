@@ -13,7 +13,7 @@
 </div>
 
 <div class = "well info-block text-center">
-    Year: <span class = "badge"> <?php echo $year; ?> </span>    Year: <span class = "badge"> <?php echo $year; ?> </span>
+    Year: <span class = "badge"> <?php echo $year; ?> </span>   
     Rating: <span class = "badge"> <?php echo $rating; ?> </span>
     Director: <span class = "badge"> <?php echo $director; ?> </span>
 </div>
